@@ -1,0 +1,27 @@
+GNU Linux nace en 1983 es uno de los sistemas operativos más conocidos después de Windows. Existen diversos tipos de sistemas operativos Linux, ellos se llaman distribuciones.
+
+Linux se ha convertido en uno de los sistemas informáticos más confiables del planeta. Combina esa confiabilidad con un costo de entrada cero y tendrás la solución perfecta para una plataforma de escritorio.
+Cero costos de entrada debido a que es completamente gratuito. Puedes instalar Linux en tantas computadoras como desees sin tener que pagar licencias de software. Tampoco tiene costo el software y aplicaciones complementarias.
+Echemos un vistazo a los conceptos de costo de un servidor Linux, en comparación con Windows Server. El precio del software Windows Server 2019 puede llegar a USD 1200.
+Este precio no incluye licencias de otro software que necesite ejecutar (como una base de datos, un servidor web, un servidor de correo). Con el servidor Linux todo es gratis e increíblemente fácil de instalar.
+Cualquier computadora que esté conectada a una red no es inmune a los virus. Pero, como con todo lo demás, es relativo. Si comparas la vulnerabilidad de Linux a Windows, puedes entender por qué muchos dicen que Linux es inmune.
+
+Linux sistema operativo de código abierto
+Linux se distribuye bajo una licencia de código abierto. Esto significa que es mejorado continuamente por una comunidad de desarrolladores. Está diseñado para seguir siendo gratuito.
+El código abierto sigue la filosofía de libertad de uso y distribución. Puedes ejecutar libremente el programa, independientemente si tu propósito es personal o comercial.
+Igualmente eres libre de estudiar cómo funciona el programa y cambiarlo para ajustarlo a tus necesidades particulares. Puede redistribuir copias de sus versiones modificadas para que pueda ayudar a otros usuarios.
+En resumen, debes comprender que existe una comunidad que se unió para crear la plataforma Linux. Sin lugar a dudas es un sistema operativo desarrollado por la gente para la gente.
+Esta filosofía es una de las principales razones por las que un gran porcentaje de personas usan Linux. Se trata de libertad de manejo y libertad de elección.
+
+Linux tiene varias versiones diferentes que le permiten adaptarse a casi cualquier tipo de usuario. Desde usuarios nuevos hasta usuarios experimentados, encontrarán un tipo de Linux que puede satisfacer sus necesidades.
+Estas versiones se denominan distribuciones. Casi todas las distribuciones de Linux se pueden descargar de forma gratuita.
+Puedes grabarlas en el disco duro de tu máquina. También en un pendrive para instalarlo a través de los puertos USB en tantas máquinas como desees.
+Las distribuciones de Linux más populares son:
+Ubuntu Linux
+Linux Mint
+Arco de linux
+Fedora
+Debian
+openSUSE.
+Cada distribución de Linux tiene una apariencia diferente en el escritorio. Algunos optan por interfaces de usuario muy modernas, como Unity de Ubuntu o Deepin Desktop de Deepin.
+Mientras que otros optan por un entorno de escritorio más tradicional (openSUSE usa KDE).
